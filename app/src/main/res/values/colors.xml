@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5066e4</color>
+    <color name="colorPrimaryDark">#1a4869</color>
+    <color name="colorAccent">#00cca3</color>
+    <color name="color02">#54a3bd</color>
+    <color name="colorback">#155164</color>
+    <color name="laranja">#FF8C00</color>
+    <color name="BackgroundtWhiteColor">#ffffff</color>
+
+</resources>

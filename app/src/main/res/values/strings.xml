@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Real Water</string>
+    <string name="btn_cadastrar">Cadastrar-se</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="Logoeimg">Logoeimg</string>
+    <string name="RGI">RGI</string>
+    <string name="Cep">Cep</string>
+    <string name="nomecompleto">Nome completo</string>
+    <string name="CPF">CPF</string>
+    <string name="anodenasc">Ano de nascimento</string>
+    <string name="Dataultimaconta">Data da última conta</string>
+    <string name="litrosultimaconta">Litros da última conta</string>
+    <string name="valordaultimaconta">Valor da última conta</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
