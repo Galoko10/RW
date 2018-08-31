@@ -9,7 +9,7 @@ import android.widget.EditText;
 
 
 
-public class Cadastro extends Activity {
+public class CadastroActivity extends Activity {
 
     @Override
 
