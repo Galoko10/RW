@@ -22,6 +22,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/reports"/>
+<<<<<<< HEAD
+>>>>>>> ddbaeada5c4cbab9ee9b5693847452526d53c40a
+=======
 >>>>>>> ddbaeada5c4cbab9ee9b5693847452526d53c40a
 
     <!-- The drawer is given a fixed width in dp and extends the full height of
