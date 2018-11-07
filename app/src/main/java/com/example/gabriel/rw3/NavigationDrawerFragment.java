@@ -62,19 +62,16 @@ public class NavigationDrawerFragment extends Fragment {
     ListView list;
     String[] itemname ={
             "Home",
-            "Moradores",
-            "Atividades",
-            "Contas Sabesp",
+            "Gerenciar",
             "Consumo"
     };
 
+
     Integer[] imgid={
             R.drawable.home,
-            R.drawable.people,
-            R.drawable.timer,
             R.drawable.report,
-            R.drawable.reports,
-    };
+            R.drawable.reports
+            };
     public NavigationDrawerFragment() {
     }
 
